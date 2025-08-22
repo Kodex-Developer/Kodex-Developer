@@ -4,18 +4,30 @@
 
 <br clear="both">
 
-<h4 align="center">💻 Full-Stack & FiveM Developer | 🚀 Passionate about futuristic coding and automation</h4>
+<h5 align="center">💻 Full-Stack & FiveM Developer | 🚀 Passionate about futuristic coding and automation</h5>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="150" src="https://i.ibb.co/VcSkKsd8/kodex-logo.gif"  />
+<div align="center">
+</div>
+
+###
+
+<img align="right" height="200" src="https://i.ibb.co/VcSkKsd8/kodex-logo.gif"  />
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kodex-Developer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
 </div>
 
 ###
